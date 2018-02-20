@@ -19,6 +19,9 @@ public class Main {
         System.out.println(person2.toString());
 
 
+        for (int i = 0; i<300;i++) {
+            System.out.println(UUID.randomUUID().toString());
+        }
     }
 
 
